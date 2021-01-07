@@ -952,20 +952,6 @@
          "tilecount":168,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":10,
-         "firstgid":2449,
-         "image":"..\/..\/..\/Downloads\/Taoki_tiles05.bmp",
-         "imageheight":200,
-         "imagewidth":320,
-         "margin":0,
-         "name":"Taoki_tiles05",
-         "spacing":0,
-         "tilecount":60,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
