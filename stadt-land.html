@@ -138,6 +138,10 @@ function onTimesUp() {
 }
 
 function startTimer() {
+  timePassed = 0;
+  timeLeft = TIME_LIMIT;
+  timerInterval = null;
+  remainingPathColor = COLOR_CODES.info.color;
   timerInterval = setInterval(() => {
     timePassed = timePassed += 1;
     timeLeft = TIME_LIMIT - timePassed;
